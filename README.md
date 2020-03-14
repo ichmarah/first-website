@@ -8,4 +8,4 @@ The end result will be hosted on Github pages.
 ## Author:
 Ichmarah Kock  
 
-Words and images © Ichmarah Kock
+Images © Ichmarah Kock
