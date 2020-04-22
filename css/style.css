@@ -2,6 +2,58 @@
   box-sizing: border-box;
 }
 
-.home-image {
-  max-width: 100%;
+.container {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 18px;
+  height: 100vh;
+  position: relative;
+}
+
+/* Navigation */
+.main-nav {
+  background: rgb(34, 34, 41);
+  opacity: 0.8;
+  padding: 5px;
+  text-align: center;
+}
+
+.menu-burger {
+  color:  #444;
+}
+
+.nav-home a {
+  color:  #fff;
+  display: none;
+  text-align: left;
+  text-decoration: none;
+}
+
+.nav-menu a {
+  color: #fff;
+  font-size: 16px;
+  padding-left: 5px;
+  padding-right: 5px;
+  text-align: left;
+  text-decoration: none;
+}
+
+/* Home */
+.my-name {
+  font-size: 64px;
+  left: 50%;
+  margin-top: -50px;
+  margin-left: -100px;
+  position: fixed;
+  text-align: center;
+  text-transform: uppercase;
+  top: 40%;
+  left: 40%;
+}
+
+.my-name a {
+  text-decoration: none;
+}
+
+.name {
+color: rgb(238,174,202);
 }
